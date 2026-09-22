@@ -1,0 +1,13 @@
+{
+  "master_product": {
+    "create": {"name": "AUTO_MP_001", "code": "AUTOMP001"},
+    "update_name": "AUTO_MP_001_EDITED"
+  },
+  "category": {
+    "create_name": "AUTO_CAT_001",
+    "update_name": "AUTO_CAT_001_EDITED"
+  },
+  "product_variant": {
+    "search_existing": "15286"
+  }
+}
